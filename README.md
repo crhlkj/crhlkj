@@ -2,22 +2,24 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=30&duration=4000&color=6EE7B7&center=true&vCenter=true&width=500&height=70&lines=🚀+Никита+Осипов;💻+Системный+Разработчик" /> 
 </h1>
 
-## 🛠 **Технический Стек**
+### **🛠 Технологический Стек**
 
-### **Языки программирования**
+#### **Языки программирования**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![Assembly](https://img.shields.io/badge/Assembly-8E0B0B?style=for-the-badge&logo=assemblyscript&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-### **Системы & Инструменты**
+#### **Операционные системы**
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+
+#### **Инструменты разработки**
+<!--![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)-->
+![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
-![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=gnu&logoColor=white)
 
 ### **⚙️ Рабочее окружение**
 ```bash
