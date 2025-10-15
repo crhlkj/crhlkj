@@ -1,48 +1,57 @@
-<!-- <div align="center">
-  <img src="https://streak-stats.demolab.com?user=crhlkj&theme=github-dark-blue&hide_border=true&locale=ru&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
-</div> -->
+<h1 align="center"> 
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&size=30&duration=4000&color=6EE7B7&center=true&vCenter=true&width=500&height=70&lines=🚀+Никита+Осипов;💻+Системный+Разработчик" /> 
+</h1>
 
-# Привет, я Никита 👋
+## 🛠 **Технический Стек**
 
-> *«Код пишу, баги ловлю, кофе пью. Иногда в этом порядке.»*
+### **Языки программирования**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Assembly](https://img.shields.io/badge/Assembly-8E0B0B?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
+### **Системы & Инструменты**
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=make&logoColor=white)
+![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-### 🧠 Обо мне
+### **⚙️ Рабочее окружение**
+```bash
+OS: Arch Linux x86_64
+Shell: zsh 5.9 with oh-my-zsh
+Terminal: gnome-terminal / kitty
+Editor: NeoVim + LunarVim
+WM: GNOME
+```
 
-- 🎓 Самоучка, но с дипломом другой професии (чтобы мама не переживала)
-- 💻 Пишу на **Python**, **С**, **Rust** иногда на **C++**, когда очень грустно
-- 🐛 Мой главный враг — `undefined is not a function`
-- ☕ Зависим от кофе, но не от Stack Overflow (`*Хуета которой не могу нормально пользоваться*`)
-- 🚀 Мечтаю написать проект, который не сломается через 5 минут после деплоя
+## 📈 **Статистика разработки**
 
----
+<div align="center">
 
-### 📈 Статистика (или как я трачу время)
+| **Активность** | **Технологии** |
+|:--------------:|:--------------:|
+| <img src="https://github-readme-stats.vercel.app/api?username=crhlkj&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6EE7B7&icon_color=6EE7B7&text_color=ffffff" width="400" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crhlkj&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6EE7B7&text_color=ffffff&langs_count=6" width="300" /> |
 
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=crhlkj&show_icons=true&theme=radical)
-![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=crhlkj&layout=compact&theme=radical)
+</div>
 
----
+## 🚀 **Текущие проекты**
 
-### 💬 Цитата дня
+- 🔧 **Low-level оптимизации** - работа с производительностью системного ПО
+- 🐧 **Linux kernel modules** - разработка модулей ядра
+- 🐳 **Containerization** - системные решения на основе Docker
+- ⚡ **High-performance computing** - параллельные вычисления
 
-> _«Если код работает — не трогай. Особенно если не понимаешь, как.»_
+## 📫 **Связь со мной**
 
----
+<div align="center">
 
-### 🤡 Мои проекты
+[![Email](https://img.shields.io/badge/📧_Email-n.osipov.06@mail.ru-2EA043?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:n.osipov.06@mail.ru)
+[![Telegram](https://img.shields.io/badge/💬_Telegram-@sadik__you-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sadik_you)
+[![VK](https://img.shields.io/badge/👤_VK-@crhlkj-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/crhlkj)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-crhlkj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crhlkj)
 
-- **[Конфиг для VS Code](https://github.com/crhlkj/vscode)** — потому что мне было скучно (и, возможно, полезно)
-
----
-
-### 📬 Связь
-
-- 💬 [Telegram](https://t.me/sadik_you) — только по вопросам выживания в продакшене
-- 📧 Email — для спама a ещё кто-то пользуеться данной мусоркой?
-
----
-
-> ⚠️ **P.S.** Если вы пришли сюда за идеальным кодом — вы ошиблись репозиторием.  
-> Но если за хаосом с намёком на порядок — welcome! 🍕
+</div>
