@@ -21,6 +21,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Make](https://img.shields.io/badge/Make-000000?style=for-the-badge&logo=gnu&logoColor=white)
 
+<br>
+
 ### **⚙️ Рабочее окружение**
 ```bash
 OS: Arch Linux x86_64
@@ -29,6 +31,9 @@ Terminal: gnome-terminal
 Editor: NeoVim + Visual Studio Code
 WM: GNOME
 ```
+
+<br>
+
 
 ## 📈 **Статистика разработки**
 
@@ -40,12 +45,23 @@ WM: GNOME
 
 </div>
 
+<br>
+
 ## 🚀 **Текущие планы**
 
 - 🔧 **Low-level оптимизации** - работа с производительностью системного ПО
 - 🐧 **Linux kernel modules** - разработка модулей ядра
 - 🐳 **Containerization** - системные решения на основе Docker
 - ⚡ **High-performance computing** - параллельные вычисления
+
+<br>
+
+## **🚀 Мои проекты**
+| Проект | Описание |
+|--------|----------|
+| 🔤 **[NeoVim](https://github.com/crhlkj/neovim)** | Моя персональная конфигурация NeoVim |
+| 💻 **[VS Code](https://github.com/crhlkj/vscode)** | Настройки для Visual Studio Code |
+<br>
 
 ## 📫 **Связь со мной**
 
