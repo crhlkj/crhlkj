@@ -60,9 +60,9 @@ WM: GNOME
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/📧_Email-n.osipov.06@mail.ru-2EA043?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:n.osipov.06@mail.ru)
-[![Telegram](https://img.shields.io/badge/💬_Telegram-@sadik__you-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sadik_you)
-[![VK](https://img.shields.io/badge/👤_VK-@crhlkj-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/crhlkj)
-[![GitHub](https://img.shields.io/badge/💻_GitHub-crhlkj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crhlkj)
+[![Email](https://img.shields.io/badge/Email-n.osipov.06@mail.ru-2EA043?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:n.osipov.06@mail.ru)
+[![Telegram](https://img.shields.io/badge/Telegram-@sadik__you-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/sadik_you)
+[![VK](https://img.shields.io/badge/VK-@crhlkj-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/crhlkj)
+[![GitHub](https://img.shields.io/badge/GitHub-crhlkj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crhlkj)
 
 </div>
