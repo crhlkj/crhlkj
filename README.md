@@ -23,8 +23,8 @@
 ```bash
 OS: Arch Linux x86_64
 Shell: zsh 5.9 with oh-my-zsh
-Terminal: gnome-terminal / kitty
-Editor: NeoVim + LunarVim
+Terminal: gnome-terminal 
+Editor: NeoVim + Visual Studio Code
 WM: GNOME
 ```
 
