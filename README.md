@@ -68,3 +68,7 @@ WM: Xfwm4 (X11)
 [![GitHub](https://img.shields.io/badge/GitHub-crhlkj-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/crhlkj)
 
 </div>
+
+<!--
+  https://github.com/inttter/md-badges?tab=readme-ov-file#table-of-contents - шаблоны
+-->
