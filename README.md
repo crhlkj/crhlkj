@@ -12,8 +12,8 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 #### **Операционные системы**
-![Ubuntu](https://img.shields.io/badge/Ubuntu-e64717?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=fff)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white)
 
 #### **Инструменты разработки**
 <!--![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)-->
@@ -26,11 +26,12 @@
 
 ### **⚙️ Рабочее окружение**
 ```bash
-OS: Arch Linux x86_64
+OS: Manjaro Linux x86_64
+Kernel: Linux 6.12.48-1-MANJARO
 Shell: zsh 5.9 with oh-my-zsh
 Terminal: gnome-terminal 
 Editor: NeoVim + Visual Studio Code
-WM: GNOME
+WM: Xfwm4 (X11)
 ```
 
 <br>
